@@ -1,0 +1,31 @@
+{
+  "workbench.colorCustomizations": {
+    // --- メインカラー設定 (上下のバー) ---
+    "titleBar.activeBackground": "#1E5631", // アクティブ時のタイトルバー背景色
+    "titleBar.activeForeground": "#E0E0E0", // タイトルバーの文字色
+    "titleBar.inactiveBackground": "#12331D", // 非アクティブ時のタイトルバー背景色
+    "statusBar.background": "#1E5631",      // ステータスバー背景色
+    "statusBar.foreground": "#E0E0E0",      // ステータスバー文字色
+    "statusBar.noFolderBackground": "#12331D", // フォルダを開いていない時の背景色
+
+    // --- 左端のバー ---
+    "activityBar.background": "#12331D",      // アクティビティバー背景色
+    "activityBar.foreground": "#E0E0E0",      // アイコンの色
+    "activityBar.inactiveForeground": "#8BAA96", // 非アクティブなアイコンの色
+    "activityBarBadge.background": "#4A835D",  // 通知バッジの背景色
+    "activityBarBadge.foreground": "#FFFFFF",   // 通知バッジの文字色
+
+    // --- エディタ画面 ---
+    "sideBar.background": "#131813",         // [追加] エクスプローラーなどサイドバーの背景色
+    "editor.background": "#191F19",          // [追加] エディタの背景色
+    "panel.background": "#131813",           // [追加] ターミナル、チャットなどパネルの背景色
+
+    // --- 境界線やアクセント ---
+    "editorGroup.border": "#4A835D",          // エディタグループの境界線
+    "tab.activeBorderTop": "#4A835D",         // アクティブなタブの上枠線
+    "panel.border": "#4A835D",                // ターミナルなどパネルの枠線
+    "sideBar.border": "#12331D",              // サイドバーの境界線
+    "focusBorder": "#4A835D",                 // フォーカス中の要素の枠線
+    "progressBar.background": "#4A835D"       // 進行状況バーの色
+  }
+}

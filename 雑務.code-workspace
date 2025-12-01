@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AIPM/aipm_AP"
+		},
+		{
+			"path": "../AIPM/aipm_R&D"
+		},
+		{
+			"path": "../AIPM/aimp_SP"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#1E5631",
+			"titleBar.activeForeground": "#E0E0E0",
+			"titleBar.inactiveBackground": "#12331D",
+			"statusBar.background": "#1E5631",
+			"statusBar.foreground": "#E0E0E0",
+			"statusBar.noFolderBackground": "#12331D",
+			"activityBar.background": "#12331D",
+			"activityBar.foreground": "#E0E0E0",
+			"activityBar.inactiveForeground": "#8BAA96",
+			"activityBarBadge.background": "#4A835D",
+			"activityBarBadge.foreground": "#FFFFFF",
+			"sideBar.background": "#131813",
+			"editor.background": "#191F19",
+			"panel.background": "#131813",
+			"editorGroup.border": "#4A835D",
+			"tab.activeBorderTop": "#4A835D",
+			"panel.border": "#4A835D",
+			"sideBar.border": "#12331D",
+			"focusBorder": "#4A835D",
+			"progressBar.background": "#4A835D"
+		}
+	}
+}
