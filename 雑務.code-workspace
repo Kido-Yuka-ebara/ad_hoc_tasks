@@ -2,15 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../AIPM/aipm_AP"
-		},
-		{
-			"path": "../AIPM/aipm_R&D"
-		},
-		{
-			"path": "../AIPM/aimp_SP"
 		}
 	],
 	"settings": {
