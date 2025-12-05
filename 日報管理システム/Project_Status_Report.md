@@ -1,6 +1,6 @@
 # プロジェクトフォルダ状況レポート
 
-**更新日**: 2025-12-02
+**更新日**: 2025-12-05
 **概要**: 各Stockフォルダ内のプロダクト(L1)およびプロジェクト(L2)の一覧
 
 ---
@@ -14,10 +14,6 @@
 - 
 
 #### [API利用](https://drive.google.com/drive/folders/1wmcHweIsGtPs3fYvFw1Hb_dfBKj4wHHj)
-
-- 
-
-#### [RAG](https://drive.google.com/drive/folders/1HD-4Lj4hEta5-Ue0jSJjnxz1g8J-H36D)
 
 - 
 
@@ -77,6 +73,18 @@
 
 ## 1on1
 
+### [MBO](https://drive.google.com/drive/folders/1wizJ9VtM-N9caa_Q8aQ20wWAvQPY7S0X)
+
+#### [2025](https://drive.google.com/drive/folders/1FCrFpHKVxiaIaSPNV23KbZ_MIhqxZP2K)
+
+- 
+
+### [プロセス行動評価](https://drive.google.com/drive/folders/1VURg0Axmjkt0JUy_KNMs0SpRio6VuL7D)
+
+#### (プロジェクトなし)
+
+- 
+
 ### [定期1on1](https://drive.google.com/drive/folders/12JN0Oj9PE_ht3_jwyNjmANAz_GOkyWdV)
 
 #### (プロジェクトなし)
@@ -99,9 +107,15 @@
 
 - 
 
+### [レポート再設計](https://drive.google.com/drive/folders/1S5zKVuexzxao4EQ6Z7qB0xEe-OA-TJxl)
+
+#### (プロジェクトなし)
+
+- 
+
 ### [課内資料の形式知化PJ](https://drive.google.com/drive/folders/165n-i7EC1-_pb4a6hrv5YnzdTiaq8QXM)
 
-#### [photos](https://drive.google.com/drive/folders/1DB2d8UaLpRxCVLFKz-zCWR0ua4s00hzn)
+#### [図書整理](https://drive.google.com/drive/folders/1BTaZft-56ngByZnVE_7s-aMT7kMZf4kK)
 
 - 
 
