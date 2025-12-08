@@ -1,0 +1,10 @@
+{
+  "MD022": true,
+  "MD023": true,
+  "MD004": "dash",
+  "MD007": { "indent": 2 },
+  "MD005": true,
+  "MD030": {
+    "ol_single": 1
+  }
+}
