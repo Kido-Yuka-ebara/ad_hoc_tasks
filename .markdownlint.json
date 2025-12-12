@@ -6,5 +6,7 @@
   "MD005": true,
   "MD030": {
     "ol_single": 1
-  }
+  },
+  "MD033": false,
+  "MD013": false
 }
