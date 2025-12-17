@@ -1,6 +1,6 @@
 # プロジェクトフォルダ状況レポート
 
-**更新日**: 2025-12-16
+**更新日**: 2025-12-17
 **概要**: 各Stockフォルダ内のプロダクト(L1)およびプロジェクト(L2)の一覧
 
 ---
@@ -102,10 +102,6 @@
 - 
 
 ### [単発分析調査](https://drive.google.com/drive/folders/116jHxZmlDbDxv2DmBcJ6KLgj3JSrNtom)
-
-#### [ステコミ分析](https://drive.google.com/drive/folders/1ThGBLH4WjpgI3fD33GFnPAQ93c67Urwp)
-
-- 
 
 #### [物流ツールウェビナー追加分析](https://drive.google.com/drive/folders/1BxU2xb9BinlrIY_HE7-hwiPlxpNyGU6j)
 
