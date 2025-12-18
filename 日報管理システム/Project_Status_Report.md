@@ -1,6 +1,6 @@
 # プロジェクトフォルダ状況レポート
 
-**更新日**: 2025-12-17
+**更新日**: 2025-12-18
 **概要**: 各Stockフォルダ内のプロダクト(L1)およびプロジェクト(L2)の一覧
 
 ---
@@ -58,6 +58,10 @@
 - 
 
 ### [定期課MTG](https://drive.google.com/drive/folders/1D0OVc3W61i6QSMmWSpaQ6i5K3JyMtmuf)
+
+#### [ワークスタイルラボ](https://drive.google.com/drive/folders/1VxtV7sdZuiNw1KmS1SeBd09gtzcfJTMY)
+
+- 
 
 #### [課内LT](https://drive.google.com/drive/folders/1Evn-NOWuk8vNsDkV4soN8AadSWteo4uQ)
 
